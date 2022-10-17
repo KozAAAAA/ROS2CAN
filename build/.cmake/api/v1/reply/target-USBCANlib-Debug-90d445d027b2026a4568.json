@@ -36,6 +36,9 @@
 			[
 				{
 					"fragment" : "-g  "
+				},
+				{
+					"fragment" : "-std=gnu++17"
 				}
 			],
 			"language" : "CXX",
@@ -101,7 +104,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/demo.cpp",
+			"path" : "src/modded.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{

@@ -54,7 +54,7 @@
 					[
 						0
 					],
-					"name" : "USBCANlib",
+					"name" : "RSO2CAN",
 					"targetIndexes" : 
 					[
 						0,
@@ -290,7 +290,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "USBCANlib::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-USBCANlib-Debug-596dfa4d77d61ef04437.json",
+					"jsonFile" : "target-USBCANlib-Debug-90d445d027b2026a4568.json",
 					"name" : "USBCANlib",
 					"projectIndex" : 0
 				}
@@ -300,8 +300,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/mateusz/Desktop/USBCANlib/uCCLibC/build",
-		"source" : "/home/mateusz/Desktop/USBCANlib/uCCLibC"
+		"build" : "/home/mateusz/Desktop/USBCANlib/ROS2CAN/build",
+		"source" : "/home/mateusz/Desktop/USBCANlib/ROS2CAN"
 	},
 	"version" : 
 	{

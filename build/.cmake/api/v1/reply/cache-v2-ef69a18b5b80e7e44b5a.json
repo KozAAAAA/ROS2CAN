@@ -99,7 +99,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mateusz/Desktop/USBCANlib/uCCLibC/build"
+			"value" : "/home/mateusz/Desktop/USBCANlib/ROS2CAN/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -643,7 +643,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/mateusz/Desktop/USBCANlib/uCCLibC"
+			"value" : "/home/mateusz/Desktop/USBCANlib/ROS2CAN"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -887,7 +887,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "USBCANlib"
+			"value" : "RSO2CAN"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1902,6 +1902,30 @@
 			"value" : ""
 		},
 		{
+			"name" : "RSO2CAN_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/mateusz/Desktop/USBCANlib/ROS2CAN/build"
+		},
+		{
+			"name" : "RSO2CAN_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/mateusz/Desktop/USBCANlib/ROS2CAN"
+		},
+		{
 			"name" : "SCPCOMMAND",
 			"properties" : 
 			[
@@ -1996,30 +2020,6 @@
 			],
 			"type" : "UNINITIALIZED",
 			"value" : ""
-		},
-		{
-			"name" : "USBCANlib_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/mateusz/Desktop/USBCANlib/uCCLibC/build"
-		},
-		{
-			"name" : "USBCANlib_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/home/mateusz/Desktop/USBCANlib/uCCLibC"
 		}
 	],
 	"kind" : "cache",

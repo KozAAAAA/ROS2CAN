@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /home/mateusz/Desktop/USBCANlib/uCCLibC
-BuildDirectory: /home/mateusz/Desktop/USBCANlib/uCCLibC/build
+SourceDirectory: /home/mateusz/Desktop/USBCANlib/ROS2CAN
+BuildDirectory: /home/mateusz/Desktop/USBCANlib/ROS2CAN/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/bin/cmake" "/home/mateusz/Desktop/USBCANlib/uCCLibC"
+ConfigureCommand: "/usr/bin/cmake" "/home/mateusz/Desktop/USBCANlib/ROS2CAN"
 MakeCommand: /usr/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 
